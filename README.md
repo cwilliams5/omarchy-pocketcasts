@@ -1,5 +1,10 @@
 # Pocket Casts for Omarchy
 
+> **Continued as [Legato](https://github.com/cwilliams5/omarchy-legato).**
+> This fork holds [the fixes offered to Nine Point Labs' plugin](https://github.com/Ninepointlabs-Omarchy-Extras/omarchy-pocketcasts/pulls?q=is%3Apr+author%3Acwilliams5)
+> (issues #4-6, PRs #7-9). Development carries on in Legato, which adds
+> Trim Silence, Volume Boost, a video window and more.
+
 A Pocket Casts player in the Omarchy bar. Sign in with your Pocket Casts
 account, then play your Up Next, in-progress and new episodes, browse your
 shows, and keep your listening position in sync with your phone.
